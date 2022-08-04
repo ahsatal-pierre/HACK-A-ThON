@@ -9,5 +9,7 @@
 - JWT
 - Express MVC
 
+- Javascript
 - React
 - fortawesome
+- Material UI
